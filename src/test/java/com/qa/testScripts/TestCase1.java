@@ -24,7 +24,7 @@ public class TestCase1 {
 		
 		// open the addressboo app on the chrome browser
 		
-		driver.get("http://172.31.19.242:8081/");
+		driver.get("http://172.31.27.80:8081/");
 		
 		driver.manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
 		
